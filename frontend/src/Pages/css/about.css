@@ -1,0 +1,11 @@
+.about__us__title{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.about__us__content{
+    position: relative;
+    margin-top: 25px!important;
+}
